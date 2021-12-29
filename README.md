@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **maybroome2@gmail.com**
 
-- ⚡ Fun fact **I learned SDL2 before I really mastered C++, meaning I regularly use pointers, despite barely knowing what they do.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kiemimi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiemimi_" height="30" width="40" /></a>
