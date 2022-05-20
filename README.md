@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiemimi&label=Profile%20views&color=0e75b6&style=flat" alt="kiemimi" /> </p>
 
-- 🌱 I’m currently learning **C++, S2D and OpenGL**
+- 🌱 I’m currently learning **SDL2 and OpenGL**
 
 - 👨‍💻 All of my projects are available at [https://kiemimi.itch.io/](https://kiemimi.itch.io/)
 
