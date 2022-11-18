@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm May</h1>
-<h3 align="center">Year 1 BSc Game Development Student @ Staffordshire University</h3>
+<h3 align="center">2nd Year BSc Game Programming Student @ Staffordshire University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiemimi&label=Profile%20views&color=0e75b6&style=flat" alt="kiemimi" /> </p>
 
-- 🌱 I’m currently learning **SDL2 and OpenGL**
-
-- 👨‍💻 All of my projects are available at [https://kiemimi.itch.io/](https://kiemimi.itch.io/)
+- 🌱 I’m currently learning **Physics programming and graphics in DirectX11, Network programming with .NET in C#**
 
 - 📫 How to reach me **maybroome2@gmail.com**
 
