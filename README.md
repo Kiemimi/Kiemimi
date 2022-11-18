@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm May</h1>
 <h3 align="center">2nd Year BSc Game Programming Student @ Staffordshire University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiemimi&label=Profile%20views&color=0e75b6&style=flat" alt="kiemimi" /> </p>
-
 - 🌱 I’m currently learning **Physics programming and graphics in DirectX11, Network programming with .NET in C#**
 
 - 📫 How to reach me **maybroome2@gmail.com**
